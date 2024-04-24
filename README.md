@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django.**
 
-- 💬 Ask me about **Java, React Native, React.**
+- 💬 Ask me about **Java, React, HTML, CSS.**
 
 - 📫 How to reach me **rangarajsathya53@gmail.com**
 
