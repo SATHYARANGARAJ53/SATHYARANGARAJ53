@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathya R</h1>
 <h3 align="center">A passionate software engineer </h3>
 
-- 🌱 I’m currently learning **Django.**
+- 🌱 I’m currently learning **MERN.**
 
 - 💬 Ask me about **Java, React, HTML, CSS.**
 
