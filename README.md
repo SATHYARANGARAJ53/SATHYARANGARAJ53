@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathya R</h1>
+<h1 align="center">Hi 👋, I'm Sathya Rangaraj</h1>
 <h3 align="center"I'm a dedicated software engineer with a passion for Java and full-stack development, specializing in building efficient solutions that drive impact</h3>
 
 - 🌱 I’m currently learning **Flask,React**
