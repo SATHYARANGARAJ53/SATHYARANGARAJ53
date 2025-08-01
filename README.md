@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,SQL**
 
-- 💬 Ask me about **DataStructures and Algorithms using Java,Flask, React, HTML, CSS.**
+- 💬 Ask me about **DataStructures and Algorithms using Java,SQL, React, HTML, CSS.**
 
 - 📫 How to reach me **rangarajsathya53@gmail.com**
 
