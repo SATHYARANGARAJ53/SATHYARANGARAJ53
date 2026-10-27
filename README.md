@@ -23,8 +23,6 @@ I'm an Associate Engineer interested in data engineering, ETL workflows, and clo
   </a>
 </p>
 
-LeetCode Stats
-
 <h3 align="left">Languages and Tools:</h3>
 
 - ETL: Ab Initio, ETL workflows, data validation and transformation checks
